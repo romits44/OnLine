@@ -1,4 +1,4 @@
-AskMeOut is a Django website developed in a hackathon in a duration of 24 hours.
+Online is a Django website developed in a hackathon in a duration of 24 hours.
 
 The problem statement for the same was: 
 Cognitive Log Analytics - A cognitive solution which will help analysis customer calls in a call centre.
