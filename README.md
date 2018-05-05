@@ -12,4 +12,17 @@ The website has the following functionalities:
 4. Per employee data can also be generated.
 5. Not only that, a pdf report can also be generated at the click of a button to get the overall review of the employee based on all the calls he/she has made uptil now.
 
-- Developed by Team Dost (Kanksha Zaveri, Romit Shah, Shrey Nahar and Niti Shah)
+Working screenshots of the same:
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/dashboard.png)
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/callerlist.png)
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/summary.png)
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/summdoc.png)
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/summdoc2.png)
+
+![alt text](https://github.com/Nits2097/CodeShastraRound1/blob/master/onliness/update.png)
+
