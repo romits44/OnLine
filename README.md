@@ -1,4 +1,4 @@
-On-line is a Django website developed in a hackathon in a duration of 24 hours.
+On-line is a Django website developed in a hackathon.
 
 The problem statement for the same was: 
 Cognitive Log Analytics - A cognitive solution which will help analysis customer calls in a call centre.
